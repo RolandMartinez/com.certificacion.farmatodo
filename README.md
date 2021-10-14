@@ -11,7 +11,10 @@ Para la ejecución del proyecto solo es copiar el tag en el feature y pegar en e
 
 para el primer punto se elaboro una carpeta en src \ test \ resources \ Documentacion donde se elaboraron los casos de prueba para login y registro
 
+El video quedo dentro del proyecto con el nombre de farmatodo.mp4
+
 Quedo atento a cualquier sugerencia
+
 
 feliz dia
 
